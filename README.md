@@ -14,13 +14,22 @@ Clone da plataforma Discord.
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/Mnr08FcriAibSOheL0XvrY/Discord-Clone?node-id=0%3A1). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 
-## Executando o projeto
+## 🚀 Como executar
 
-Utilize o **yarn add** ou o **npm install** para instalar as dependências do projeto.
-Em seguida, inicie o projeto.
+Clone o projeto e acesse a pasta do mesmo.
 
-```cl
-yarn start
+```bash
+$ git clone https://github.com/lucas-rabelo/discord
+$ cd discord
+```
+
+Para iniciá-lo, siga os passos abaixo:
+```bash
+# Instalar as dependências
+$ yarn
+
+# Iniciar o projeto
+$ yarn start
 ```
 
 ## 📄 Licença
