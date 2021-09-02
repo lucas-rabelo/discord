@@ -1,4 +1,5 @@
 // components
+import { ChannelData } from '../ChannelData';
 import { ChannelInfo } from '../ChannelInfo';
 import { ChannelList } from '../ChannelList';
 import { ServerList } from '../ServerList';
@@ -17,7 +18,7 @@ export function Layout() {
             <ChannelInfo />
             <ChannelList />
             <UserInfo />
-            <div></div>
+            <ChannelData />
             <UserList />
         </Grid>
     );

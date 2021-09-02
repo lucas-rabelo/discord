@@ -10,8 +10,20 @@ export function UserList() {
             <Role>Disponível - 1</Role>
             <UserRow nickName="Guilherme Rodz" />
 
-            <Role>Offline - 18</Role>
-            <UserRow nickName="Diego Fernandes" isBot/>
+            <Role>Offline - 12</Role>
+            <UserRow nickName="Diego Fernandes" />
+            <UserRow nickName="Fulano" isBot/>
+            <UserRow nickName="Fulano" />
+            <UserRow nickName="Fulano" />
+            <UserRow nickName="Fulano" />
+            <UserRow nickName="Fulano" />
+            <UserRow nickName="Fulano" isBot/>
+            <UserRow nickName="Fulano" />
+            <UserRow nickName="Fulano" />
+            <UserRow nickName="Fulano" isBot/>
+            <UserRow nickName="Fulano" />
+            <UserRow nickName="Fulano" isBot/>
+
         </Container>
     );
 }
