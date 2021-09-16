@@ -6,7 +6,7 @@ Clone da plataforma Discord.
 
 -   [ ] ReactJS
 -   [ ] Typescript
--   [ ] Styled-omponents
+-   [ ] Styled-components
 
 
 ## 🔖 Layout
